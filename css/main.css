@@ -1,15 +1,3 @@
-/* ==========================================================================
-   DOCUMENT INFORMATION
-   ========================================================================== */
-
-
-/* 
- - Document: DotSquare
- - Version:  1.0.0
- - Client:   ThemeForest
-*/
-
-
 /* CSS Document */
 
 body {
@@ -939,6 +927,10 @@ input.button {
     .banner .carousel-fade .carousel-inner .item {
         background-attachment: scroll;
     }
+}
+
+.list-uns {
+    margin-left: 50px;
 }
 
 .top-in-desk {
