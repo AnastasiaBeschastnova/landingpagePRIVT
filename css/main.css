@@ -940,3 +940,23 @@ input.button {
         background-attachment: scroll;
     }
 }
+
+.top-in-desk {
+    display: block;
+}
+
+.top-in-mob {
+    display: none;
+}
+
+@media (max-width: 1000px) {
+    .top-in-desk {
+        display: none;
+    }
+    .top-in-mob {
+        display: block;
+    }
+    .lgo {
+        max-width: 200px!important;
+    }
+}
