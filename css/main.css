@@ -448,6 +448,10 @@ input.button {
     margin: 40px auto;
 }
 
+.testimonial-photo-img {
+    width: 115%;
+}
+
 .testimonial-content {
     font-size: 18px;
     color: #666;
@@ -830,7 +834,7 @@ input.button {
         text-align: center;
     }
     .logo img {
-        max-width: 400px;
+        max-width: px;
     }
     .nav {
         font-size: 14px;
